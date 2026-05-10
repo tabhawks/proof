@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /portal.html
+Disallow: /deck.html
+
+Sitemap: /sitemap.xml
